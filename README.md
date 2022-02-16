@@ -1,6 +1,5 @@
 # Dental-Responsive-Website
-# Watch it on Youtube https://youtu.be/f1PghtlO1EI
-
+# https://bit.ly/3HVQ1FB
 
 Responsive Website Design Using HTML,CSS,SCSS,JavaScript
 
