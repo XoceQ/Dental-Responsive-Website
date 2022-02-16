@@ -8,3 +8,4 @@ Responsive Website Design Using HTML,CSS,SCSS,JavaScript
 
 Assets 📁
 Icons: https://boxicons.com/
+https://iconos8.es/
